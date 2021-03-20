@@ -1,0 +1,104 @@
+***3*6*5*
+**5****24
+3*****6**
+8*****7*2
+4*****1**
+**75*****
+21*7*****
+**38****6
+68*1**2*3
+
+Number of Givens: 26
+Number of Singles: 55
+Number of Hidden Singles: 15
+Number of Naked Pairs: 3
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 1
+Number of Guesses: 2
+Number of Backtracks: 2
+Difficulty: Expert
+
+*9*******
+65**8**1*
+**4****26
+***275***
+7**64*1*8
+******4**
+54*****8*
+********1
+8*2**17**
+
+Number of Givens: 25
+Number of Singles: 57
+Number of Hidden Singles: 15
+Number of Naked Pairs: 2
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 1
+Number of Box/Line Intersections: 1
+Number of Guesses: 3
+Number of Backtracks: 2
+Difficulty: Expert
+
+***17**62
+****567**
+***2*9***
+2*9***8**
+**6*2****
+7*5*****4
+***59***1
+*5**68**9
+*****1**8
+
+Number of Givens: 26
+Number of Singles: 45
+Number of Hidden Singles: 9
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 1
+Number of Backtracks: 0
+Difficulty: Expert
+
+****4*6*3
+8********
+*9****451
+3*5***8*6
+**982*5**
+*********
+*61**53**
+2****1***
+*48******
+
+Number of Givens: 24
+Number of Singles: 63
+Number of Hidden Singles: 6
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 6
+Number of Box/Line Intersections: 0
+Number of Guesses: 2
+Number of Backtracks: 2
+Difficulty: Expert
+
+*84******
+**7*62***
+13*******
+***4*76*1
+3*6*1**78
+*1*****2*
+**5**3**4
+2*3*****6
+****8****
+
+Number of Givens: 25
+Number of Singles: 55
+Number of Hidden Singles: 17
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 2
+Number of Backtracks: 2
+Difficulty: Expert
